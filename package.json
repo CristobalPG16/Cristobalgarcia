@@ -1,0 +1,24 @@
+{
+  "name": "cristobalgarcia",
+  "version": "1.0.0",
+  "description": " Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristobalPG16/Cristobalgarcia.git"
+  },
+  "author": "Cristobal Perez Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristobalPG16/Cristobalgarcia/issues"
+  },
+  "homepage": "https://github.com/CristobalPG16/Cristobalgarcia#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.51.0"
+  }
+}
